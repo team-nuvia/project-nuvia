@@ -1,8 +1,8 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/kkn1125/nuvia-api.git
+	url = https://github.com/team-nuvia/nuvia-backend.git
 	branch = main
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/kkn1125/nuvia-frontend.git
+	url = https://github.com/team-nuvia/nuvia-frontend.git
 	branch = main
